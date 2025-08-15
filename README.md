@@ -1,6 +1,6 @@
 ### Hello there 👋
 ---
-I'm Izan, a full stack developer from Malaysia
+I'm Izan, a system designer from Malaysia
 - 🔭 I’m currently maintaining [E-Masjid.My](https://github.com/Dev4w4n/e-masjid.my), a free and open source (MIT License) mosque management system.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohaizanroosley/)
 

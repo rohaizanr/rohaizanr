@@ -1,8 +1,9 @@
-### Hello there 👋
----
-I'm Izan, a system designer from Malaysia
-- 🔭 I’m currently maintaining [E-Masjid.My](https://github.com/Dev4w4n/e-masjid.my), a free and open source (MIT License) mosque management system.
-- 🖥️ **See My Work:** Check out my portfolio at **[4w4n.com](https://4w4n.com)**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohaizanroosley/)
+🛠️ Just a Tool Guy from BM
+🔭 I'm currently focused on maintaining E-Masjid.My, a free and open-source (MIT License) mosque management system.
 
-Like my work? Please consider [sponsoring](https://github.com/sponsors/Dev4w4n) my project
+🌐 See More: Explore my other projects and work at 4w4n.com.
+
+🤝 Let's Connect: You can find me on LinkedIn.
+
+A Note on Supporting My Work
+If you find my open-source projects valuable, I'd appreciate your support in helping me continue my work. You can consider sponsoring E-Masjid.My or my other projects. Thank you!
